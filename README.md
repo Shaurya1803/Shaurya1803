@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-cat > README.md << 'EOF'
+
 <h1 align="center">Hi, I'm Shaurya 👋</h1>
 <p align="center">Final-year CS student · Full-stack developer</p>
 
@@ -28,7 +28,7 @@ cat > README.md << 'EOF'
 </p>
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-tiwari-m2006)
-EOF
+
 
 <!--
 **Shaurya1803/Shaurya1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
