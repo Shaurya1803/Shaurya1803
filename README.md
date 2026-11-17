@@ -31,6 +31,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-tiwari-m2006)
 
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaurya1803/Shaurya1803/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaurya1803/Shaurya1803/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Shaurya1803/Shaurya1803/output/github-snake.svg" />
+</picture>
+
 <!--
 **Shaurya1803/Shaurya1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
